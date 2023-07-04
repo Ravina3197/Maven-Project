@@ -1,0 +1,41 @@
+Sign-Up
+1.Verify by clicking on the submit button for blank input
+2.Enter all valid data on spacebar of mandatory fields.
+3.Enter the captcha correctly.
+4.Verify that speaker logo option of captcha is clickable and working properly.
+5.Verify the option of 
+6.Verify the working functionality of submit button.
+7.Enter OTP received on mail id/mobile no. which entered previously.
+8.Verify password added by the user should be protected, encrypted and shown in asterisk(***).
+9.Verify whether the validation added for password and confirm password are same or not. 
+
+Forget Password
+10.Click on forget password option.
+11.Enter valid mail id/ mobile no.
+12.Verify the captcha correctly.
+13.Verify that speaker logo option of captcha is clickable and working properly.
+14.Verify the working functionality of submit button.
+15.Enter the received OTP.
+16.Enter the new validations for password and confirm it.
+
+Login
+17.Enter valid mail id/ mobile no.
+18.Verify that it should accept only correct validations.
+19.Verify the captcha correctly.
+20.Verify that speaker logo option of captcha is clickable and working properly.
+21.Verify the validations of sign-in button by clicking on it.
+
+Sign-in with OTP
+22.Enter valid mail id/ mobile no.
+23.Verify that it should accept only correct option.
+24.Verify the captcha correctly.
+25.Verify that speaker logo option of captcha is clickable and working properly.
+26.Verify the validations of sign-in with OTP option by clicking on it.
+27.Validate the OTP and click on submit button for sign-in.
+28.Verify that it should always validate with valid user-name and password.
+29.Verify that it should always validate with correct OTP.
+30.Validate that all buttons clickable properly.
+
+Bugs
+1.Issue while accepting OTP for repeat Sign-up.
+2.Not showing any error while using same email-id and phone number for again sign-up.
